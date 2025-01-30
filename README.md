@@ -1,71 +1,41 @@
-<h1 align="center">👋 Hello World! I'm Lowkey Dev</h1>
-<h3 align="center">Crafting digital experiences, one line of code at a time ✨</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+# 👋 Hello World! I'm Lowkey Dev
+### Crafting digital experiences, one line of code at a time ✨
 
 ## 🚀 About Me
-```javascript
-const lowkeyDev = {
-    role: "Full Stack Developer",
-    currentProject: "Forex Trading Academy (GTA)",
-    exploring: ["Rust", "Python"],
-    contact: "muizoyetola8@gmail.com",
-    funFact: "I love joking alot 😄",
-    passion: "Building responsive, user-friendly applications"
-};
-```
+I'm a Full Stack Developer passionate about building web applications. I specialize in modern JavaScript technologies and love creating responsive, user-friendly applications.
+
+• 💻 I'm currently working on a Forex Trading Academy (GTA)
+• 📚 I'm exploring Rust and Python programming language
+• 📫 How to reach me: muizoyetola8@gmail.com
+• ⚡ Fun fact: I love joking alot
 
 ## 💻 Tech Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lowkey-dev21&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lowkey-dev21&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowkey-dev21&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lowkey-dev21&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowkey-dev21&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowkey-dev21&layout=compact&theme=tokyonight)
 
 ## 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/lowkey-dev-3693a4276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=iosapp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/low.key_dev/profilecard/?igsh=MWl4NXk5OTJ2aXBmNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/lowkey1921?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lowkey-dev-3693a4276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=iosapp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/low.key_dev/profilecard/?igsh=MWl4NXk5OTJ2aXBmNw==)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lowkey1921?s=21)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lowkey-dev21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=lowkey-dev21&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
-<p align="center">
-  <i>✨ Happy Coding! ✨</i>
-</p>
+✨ Happy Coding! ✨
