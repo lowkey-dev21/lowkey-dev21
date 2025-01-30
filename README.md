@@ -7,7 +7,7 @@ I'm a Full Stack Developer passionate about building web applications. I special
 • 💻 I'm currently working on a Forex Trading Academy (GTA)
 • 📚 I'm exploring Rust and Python programming language
 • 📫 How to reach me: muizoyetola8@gmail.com
-• ⚡ Fun fact: I love joking alot
+• ⚡ Fun fact: I love joking alot 
 
 ## 💻 Tech Arsenal
 
