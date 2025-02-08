@@ -32,7 +32,7 @@ I'm a Full Stack Developer passionate about building web applications. I special
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lowkey-dev-3693a4276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=iosapp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/low.key_dev/profilecard/?igsh=MWl4NXk5OTJ2aXBmNw==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/low.key_dev?igsh=MWl4NXk5OTJ2aXBmNw%3D%3D&utm_source=qr)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lowkey1921?s=21)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lowkey-dev21&color=blueviolet&style=flat-square&label=Profile+Views)
